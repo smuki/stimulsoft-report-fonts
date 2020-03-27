@@ -284,7 +284,7 @@
               <ClientRectangle>6.8,0,12.2,0.4</ClientRectangle>
               <ComponentStyle>Footer1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <Guid>c8f19b070a6f4b4facf5b1a643554736</Guid>
               <HorAlignment>Right</HorAlignment>
               <Margins>0,0,0,0</Margins>
@@ -312,7 +312,7 @@
               <ClientRectangle>9.4,0,9.6,0.8</ClientRectangle>
               <ComponentStyle>Title1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,19</Font>
+              <Font>Source Han Sans CN,19</Font>
               <Guid>1e9810989ef54290ae71a5c04bf1cc6f</Guid>
               <HorAlignment>Right</HorAlignment>
               <Margins>0,0,0,0</Margins>
@@ -330,7 +330,7 @@
               <ClientRectangle>0,0,9.4,0.8</ClientRectangle>
               <ComponentStyle>Title1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,19</Font>
+              <Font>Source Han Sans CN,19</Font>
               <Guid>2c5e846ecae74cd5bc625c2979982187</Guid>
               <Margins>0,0,0,0</Margins>
               <Name>Text23</Name>
@@ -348,7 +348,7 @@
               <ClientRectangle>0,1,14.6,0.8</ClientRectangle>
               <ComponentStyle>Title2</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <Guid>f0b94eeaa11342dc993c7a84de7c04aa</Guid>
               <Margins>0,0,0,0</Margins>
               <Name>Text26</Name>
@@ -366,7 +366,7 @@
               <ClientRectangle>14.6,1,4.4,0.8</ClientRectangle>
               <ComponentStyle>Title2</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <Guid>828792fd7bea4171aa44efc6c14a9958</Guid>
               <HorAlignment>Right</HorAlignment>
               <Margins>0,0,0,0</Margins>
@@ -398,7 +398,7 @@
               <ClientRectangle>0,0,19,0.6</ClientRectangle>
               <ComponentStyle>Header2</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,12,Bold</Font>
+              <Font>Source Han Sans CN,12,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text22</Name>
@@ -426,7 +426,7 @@
               <ClientRectangle>0,0,6.8,0.6</ClientRectangle>
               <ComponentStyle>Header3</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9,Bold</Font>
+              <Font>Source Han Sans CN,9,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text9</Name>
@@ -442,7 +442,7 @@
               <ClientRectangle>6.8,0,5.2,0.6</ClientRectangle>
               <ComponentStyle>Header3</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9,Bold</Font>
+              <Font>Source Han Sans CN,9,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text6</Name>
@@ -458,7 +458,7 @@
               <ClientRectangle>12,0,3,0.6</ClientRectangle>
               <ComponentStyle>Header3</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9,Bold</Font>
+              <Font>Source Han Sans CN,9,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text14</Name>
@@ -474,7 +474,7 @@
               <ClientRectangle>15,0,4,0.6</ClientRectangle>
               <ComponentStyle>Header3</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9,Bold</Font>
+              <Font>Source Han Sans CN,9,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text15</Name>
@@ -503,7 +503,7 @@
               <ClientRectangle>6.8,0,5.2,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Margins>0,0,0,0</Margins>
               <Name>Text18</Name>
@@ -521,7 +521,7 @@
               <ClientRectangle>12,0,3,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Margins>0,0,0,0</Margins>
               <Name>Text19</Name>
@@ -539,7 +539,7 @@
               <ClientRectangle>15,0,4,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Margins>0,0,0,0</Margins>
               <Name>Text20</Name>
@@ -557,7 +557,7 @@
               <ClientRectangle>0.6,0,6.2,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Margins>0,0,0,0</Margins>
               <Name>Text17</Name>
@@ -575,7 +575,7 @@
               <ClientRectangle>0,0,0.6,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Guid>2307d1b5bee5446294ba557791c5857e</Guid>
               <HorAlignment>Center</HorAlignment>
@@ -609,7 +609,7 @@
               <ClientRectangle>0,0,19,0.2</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Guid>ae1ab8c5801347efa18725e4e0619581</Guid>
               <Margins>0,0,0,0</Margins>
@@ -639,7 +639,7 @@
               <ClientRectangle>0,0.2,19,0.6</ClientRectangle>
               <ComponentStyle>Header2</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,12,Bold</Font>
+              <Font>Source Han Sans CN,12,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text21</Name>
@@ -666,7 +666,7 @@
               <ClientRectangle>9.4,0,6.6,0.6</ClientRectangle>
               <ComponentStyle>Header3</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9,Bold</Font>
+              <Font>Source Han Sans CN,9,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text11</Name>
@@ -682,7 +682,7 @@
               <ClientRectangle>0,0,9.4,0.6</ClientRectangle>
               <ComponentStyle>Header3</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9,Bold</Font>
+              <Font>Source Han Sans CN,9,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text10</Name>
@@ -698,7 +698,7 @@
               <ClientRectangle>16,0,3,0.6</ClientRectangle>
               <ComponentStyle>Header3</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9,Bold</Font>
+              <Font>Source Han Sans CN,9,Bold</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>Text12</Name>
@@ -726,7 +726,7 @@
               <ClientRectangle>0.6,0,8.8,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Margins>0,0,0,0</Margins>
               <Name>Text1</Name>
@@ -744,7 +744,7 @@
               <ClientRectangle>9.4,0,6.6,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Margins>0,0,0,0</Margins>
               <Name>Text2</Name>
@@ -762,7 +762,7 @@
               <ClientRectangle>16,0,3,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <HorAlignment>Right</HorAlignment>
               <Margins>0,0,0,0</Margins>
@@ -786,7 +786,7 @@
               <ClientRectangle>0,0,0.6,0.6</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Guid>c83873eb71f4408a99c7deefb6ee2aed</Guid>
               <HorAlignment>Center</HorAlignment>
@@ -823,7 +823,7 @@
               <ClientRectangle>0,0,19,0.2</ClientRectangle>
               <ComponentStyle>Data1</ComponentStyle>
               <Conditions isList="true" count="0" />
-              <Font>FangSong,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <GrowToHeight>True</GrowToHeight>
               <Guid>19359f6cc01b4d0bba16fdab5da0ceab</Guid>
               <Margins>0,0,0,0</Margins>
@@ -852,7 +852,7 @@
       <PageWidth>21</PageWidth>
       <Report isRef="0" />
       <Watermark Ref="57" type="Stimulsoft.Report.Components.StiWatermark" isKey="true">
-        <Font>FangSong,100</Font>
+        <Font>Source Han Sans CN,100</Font>
         <TextBrush>[50:0:0:0]</TextBrush>
       </Watermark>
     </Page1>
@@ -904,7 +904,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>None;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>Transparent</Brush>
-      <Font>FangSong,19</Font>
+      <Font>Source Han Sans CN,19</Font>
       <HorAlignment>Right</HorAlignment>
       <Name>Title1</Name>
       <StyleCode>None</StyleCode>
@@ -915,7 +915,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>None;[102:77:38];1;Solid;False;4;Black</Border>
       <Brush>Transparent</Brush>
-      <Font>FangSong,9</Font>
+      <Font>Source Han Sans CN,9</Font>
       <Name>Title2</Name>
       <StyleCode>None</StyleCode>
       <TextBrush>[102:77:38]</TextBrush>
@@ -925,7 +925,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>None;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>Transparent</Brush>
-      <Font>FangSong,19</Font>
+      <Font>Source Han Sans CN,19</Font>
       <Name>Header1</Name>
       <StyleCode>None</StyleCode>
       <TextBrush>[193:152:89]</TextBrush>
@@ -935,7 +935,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>None;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>Transparent</Brush>
-      <Font>FangSong,12,Bold</Font>
+      <Font>Source Han Sans CN,12,Bold</Font>
       <HorAlignment>Center</HorAlignment>
       <Name>Header2</Name>
       <StyleCode>None</StyleCode>
@@ -946,7 +946,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>All;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>[242:234:221]</Brush>
-      <Font>FangSong,9,Bold</Font>
+      <Font>Source Han Sans CN,9,Bold</Font>
       <HorAlignment>Center</HorAlignment>
       <Name>Header3</Name>
       <StyleCode>None</StyleCode>
@@ -957,7 +957,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>None;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>Transparent</Brush>
-      <Font>FangSong,9</Font>
+      <Font>Source Han Sans CN,9</Font>
       <Name>Data1</Name>
       <StyleCode>None</StyleCode>
       <TextBrush>[102:77:38]</TextBrush>
@@ -970,7 +970,7 @@ namespace Reports
       <AllowUseTextBrush>False</AllowUseTextBrush>
       <AllowUseTextOptions>False</AllowUseTextOptions>
       <Brush>[240:237:232]</Brush>
-      <Font>FangSong,9</Font>
+      <Font>Source Han Sans CN,9</Font>
       <Name>Data2</Name>
       <StyleCode>None</StyleCode>
       <TextBrush>Black</TextBrush>
@@ -979,7 +979,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>None;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>[240:237:232]</Brush>
-      <Font>FangSong,9</Font>
+      <Font>Source Han Sans CN,9</Font>
       <Name>Data3</Name>
       <StyleCode>None</StyleCode>
       <TextBrush>[102:77:38]</TextBrush>
@@ -989,7 +989,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>Top;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>Transparent</Brush>
-      <Font>FangSong,9</Font>
+      <Font>Source Han Sans CN,9</Font>
       <Name>Footer1</Name>
       <StyleCode>None</StyleCode>
       <TextBrush>[102:77:38]</TextBrush>
@@ -999,7 +999,7 @@ namespace Reports
       <AllowUseBorderSides>False</AllowUseBorderSides>
       <Border>None;[193:152:89];1;Solid;False;4;Black</Border>
       <Brush>Transparent</Brush>
-      <Font>FangSong,12,Bold</Font>
+      <Font>Source Han Sans CN,12,Bold</Font>
       <HorAlignment>Right</HorAlignment>
       <Name>Footer2</Name>
       <StyleCode>None</StyleCode>
