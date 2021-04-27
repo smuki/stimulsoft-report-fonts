@@ -57,7 +57,7 @@ namespace Render_Report_in_the_Console_App
             settings.CreatorString = "PDF Service";
             settings.UseUnicode = true;
             settings.EmbeddedFonts = true;
-            settings.StandardPdfFonts = false;
+            settings.StandardPdfFonts = true;
             settings.PdfComplianceMode= StiPdfComplianceMode.A1;
 
             StiOptions.Engine.FullTrust = true;
@@ -93,7 +93,8 @@ namespace Render_Report_in_the_Console_App
                     if (fnt != null)
                     {
                         fnt.Font = Stimulsoft.Base.Drawing.StiFontUtils.ChangeFontName(fnt.Font, sName);
-                        Console.Write(".");
+                        Console.WriteLine(".");
+                        Console.WriteLine(sName);
                     }
                 }
             }
