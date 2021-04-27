@@ -25,7 +25,7 @@ namespace Render_Report_in_the_Console_App
                     if (File.Exists(sFontFile) && ".ttf,.otf,.ttc".IndexOf(Path.GetExtension(sFontFile))>=0)
                     {
                         Console.WriteLine("     "+sFontFile);
-                        Stimulsoft.Base.StiFontCollection.AddFontFile(sFontFile, Path.GetFileNameWithoutExtension(sFontFile));
+                      //  Stimulsoft.Base.StiFontCollection.AddFontFile(sFontFile, Path.GetFileNameWithoutExtension(sFontFile));
                     }
                 }
             }
@@ -34,7 +34,7 @@ namespace Render_Report_in_the_Console_App
             //show all
             foreach (var font in Stimulsoft.Base.StiFontCollection.GetFontFamilies())
             {
-                Console.WriteLine("      "+font.Name);
+                Console.WriteLine("      " + font.Name);
             }
             Console.WriteLine("Loading report and data... ");
 
@@ -83,6 +83,7 @@ namespace Render_Report_in_the_Console_App
         public static StiReport ProcessFonts(StiReport report)
         {
             string sName = "Source Han Sans CN";//it's chinese fonts
+            sName = "SimSun";
             Console.WriteLine("change all Components Font to ."+ sName);
             try
             {
