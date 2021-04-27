@@ -50,7 +50,7 @@ namespace Render_Report_in_the_Console_App
 
             var exportFilePath = $"{sCurrentDirectory}/TwoSimpleLists_{DateTime.Now.ToString("yyyy-dd-MM_HH-mm-ss")}.pdf";
 
-            //ProcessFonts(report);//replace all fonts to chinese fonts
+            ProcessFonts(report);//replace all fonts to chinese fonts
 
             report.Render(false);
             var settings = new StiPdfExportSettings();
@@ -82,7 +82,7 @@ namespace Render_Report_in_the_Console_App
         }
         public static StiReport ProcessFonts(StiReport report)
         {
-            string sName = "Source Han Sans SC";//it's chinese fonts
+            string sName = "Source Han Sans CN";//it's chinese fonts
             Console.WriteLine("change all Components Font to ."+ sName);
             try
             {

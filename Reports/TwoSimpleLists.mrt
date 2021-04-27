@@ -294,7 +294,7 @@
               <Brush>Transparent</Brush>
               <ClientRectangle>6.8,0,12.2,0.4</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Microsoft Sans Serif,9</Font>
+              <Font>Source Han Sans CN,9</Font>
               <Guid>c8f19b070a6f4b4facf5b1a643554736</Guid>
               <HorAlignment>Right</HorAlignment>
               <Margins>0,0,0,0</Margins>
@@ -441,7 +441,7 @@
               <Name>Text9</Name>
               <Page isRef="19" />
               <Parent isRef="30" />
-              <Text>公司</Text>
+              <Text>[[公司]]</Text>
               <TextBrush>[193:152:89]</TextBrush>
               <VertAlignment>Center</VertAlignment>
             </Text9>
@@ -457,7 +457,7 @@
               <Name>Text6</Name>
               <Page isRef="19" />
               <Parent isRef="30" />
-              <Text>地址</Text>
+              <Text>-----地址-----</Text>
               <TextBrush>[193:152:89]</TextBrush>
               <VertAlignment>Center</VertAlignment>
             </Text6>
