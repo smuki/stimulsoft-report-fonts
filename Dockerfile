@@ -11,9 +11,8 @@ RUN apt-get update \
         libc6-dev \
         libgdiplus \
         libx11-dev \
-        mkfontscale \
-        fontconfig \
      && rm -rf /var/lib/apt/lists/*
 
 RUN ln -s /lib64/libdl.so.2 /lib64/libdl.so
 
+COPY font/SourceHanSansCN-Regular.ttf /usr/share/fonts/ttf-dejavu/SourceHanSansCN-Regular.ttf
