@@ -68,7 +68,7 @@ namespace Render_Report_in_the_Console_App
             }
             else
             {
-                StiOptions.Export.Pdf.AllowImportSystemLibraries = false; //linux
+                StiOptions.Export.Pdf.AllowImportSystemLibraries = true; //linux
             }
 
             report.ExportDocument(StiExportFormat.Pdf, exportFilePath, settings);
