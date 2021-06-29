@@ -11,6 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Stimulsoft.Reports.Engine.NetCore" Version="2021.3.4" />
+    <ProjectReference Include="..\..\NAS\Stimulsoft-Ultimate-2020.5.2-Source-Code\.NETCore\Stimulsoft.Report\Stimulsoft.Report.csproj" />
   </ItemGroup>
 </Project>
